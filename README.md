@@ -82,3 +82,11 @@ Repository:
 🌐 GitHub
 
 https://github.com/AHMEDABDELAHI
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,js,git,github,vscode,mysql,flutter"/>
+
+</p>
+
