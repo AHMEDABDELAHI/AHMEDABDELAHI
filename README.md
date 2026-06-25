@@ -89,4 +89,11 @@ https://github.com/AHMEDABDELAHI
 <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,git,github,vscode,mysql,flutter"/>
 
 </p>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AHMEDABDELAHI&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDABDELAHI&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=AHMEDABDELAHI&theme=tokyonight)
 
